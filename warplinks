@@ -1,0 +1,15 @@
+//profile-title: base64:8J+UpSBXQVJQIPCflKU=
+//profile-update-interval: 24
+//subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
+//support-url: https://t.me/hiddify
+//profile-web-page-url: https://hiddify.com
+warp://auto
+warp://auto6
+warp://auto?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#test-auto1
+warp://162.159.195.240:1014?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#test-auto1
+warp://[2606:4700:d0::485d:9f0f:c708]:8854?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#test-auto1
+warp://162.159.195.240:1014?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://auto
+warp://p1@162.159.192.23:942?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#TestP1
+warp://p2@[2606:4700:d0::001d:ee12:2934]:3854?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#TestP2
+warp://7A1T8nS2-1dev275w-xnN735i8@162.159.192.23:942?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#TestP1
+warp://7A1T8nS2-1dev275w-xnN735i8@[2606:4700:d0::001d:ee12:2934]:3854?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#TestP2
