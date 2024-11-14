@@ -9,5 +9,3 @@ warp://auto?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#test-auto1
 warp://162.159.195.240:1014?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#test-auto1
 warp://[2606:4700:d0::485d:9f0f:c708]:8854?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#test-auto1
 warp://162.159.195.240:1014?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4&&detour=warp://auto
-warp://p1@162.159.192.23:942?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#TestP1
-warp://p2@[2606:4700:d0::001d:ee12:2934]:3854?ifp=4-8&ifps=40-80&ifpd=20-40&ifpm=m4#TestP2
